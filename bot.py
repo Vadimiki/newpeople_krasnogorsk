@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # ─── НАСТРОЙКИ ───────────────────────────────────────────────
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8759777576:AAH4O4rmz7hpNdLTwI475MME4NWYlVB2-yM")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8759777576:AAEE-E-i1WvMQXkImz392b6QxBatfvxhYpc")
 ADMIN_CHAT_ID = os.getenv("ADMIN_CHAT_ID", "426493206")
 
 # Реклама услуги по созданию ботов — поменяй на свои контакты
